@@ -75,7 +75,7 @@ We're constantly working to improve CyJet. Here are some upcoming features:
 
 ## Stay Connected
 
-- [Official Website](https://cyjet.example.com)
+- [Official Website](https://s-chathuranga-j.github.io/cyjet-docs/)
 - [LinkedIn](https://x.com/SChathurangaJ)
 - [Twitter/X](https://twitter.com/your-handle)
 

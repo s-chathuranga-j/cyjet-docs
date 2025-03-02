@@ -1,5 +1,5 @@
 # CyJet Docs - Documentation & Issue Tracker for the CyJet Plugin
-**Welcome to the official documentation & issue tracker for [CyJet](https://github.com/s-chathuranga-j/CyJet)** – a powerful **JetBrains Plugin** for Cypress automation!
+**Welcome to the official documentation & issue tracker for [CyJet](https://s-chathuranga-j.github.io/cyjet-docs/)** – a powerful **JetBrains Plugin** for Cypress automation!
 
 🛠️ **Report bugs, request features, and track the development of CyJet here.**
 
@@ -57,7 +57,7 @@ We're considering a **VS Code extension** in the future. If you're interested, [
 
 ## Stay Connected
 🔗 **Follow Updates:**
-- 🌐 [Official Website](https://cyjet.example.com)
+- 🌐 [Official Website](https://s-chathuranga-j.github.io/cyjet-docs/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/schathurangaj/)
 - 🐦 [Twitter/X](https://x.com/SChathurangaJ)
 
