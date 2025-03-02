@@ -1,8 +1,8 @@
 # Site settings
 title: CyJet Documentation
 description: Official documentation for CyJet - JetBrains Plugin for Cypress automation
-baseurl: ""
-url: ""
+baseurl: "/cyjet-docs"
+url: "https://s-chathuranga-j.github.io"
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs
