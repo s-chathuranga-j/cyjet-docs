@@ -27,18 +27,19 @@
     - **General Questions:** Ask about usage or best practices.
 3. **Provide screenshots/logs** if applicable.
 
-> 📩 [Create a New Issue](https://github.com/s-chathuranga-j/cyjet-issues/issues/new)
+> 📩 [Create a New Issue](https://github.com/s-chathuranga-j/cyjet-docs/issues/new)
 
 ---
 
 ## Planned Features & Roadmap
 **Upcoming Enhancements**
-- [ ] **Support to run tests in headed mode via plugin**
+- [ ] **Support to run tests in headed mode via the plugin**
 - [ ] **Configure Cypress cloud & run on Cloud via plugin**
 - [ ] **VS Code Extension (Future Consideration)**
 - [ ] **Improved Error Handling & Debugging Tools**
+- [ ] **Direct access to official Cypress documentation from the IDE**
 
-> **Want to see a feature?** [Request one here](https://github.com/s-chathuranga-j/cyjet-issues/issues/new?assignees=&labels=feature-request).
+> **Want to see a feature?** [Request one here](https://github.com/s-chathuranga-j/cyjet-docs/issues/new?assignees=&labels=feature-request).
 
 ---
 
@@ -50,7 +51,7 @@ Currently, CyJet is in private development. Stay tuned for release updates!
 Since the main repo is private, external contributions aren't possible. However, your feedback via **issues and feature requests** is invaluable!
 
 ### 3. **Will there be a VS Code version?**
-We're considering a **VS Code extension** in the future. If you're interested, [let us know](https://github.com/s-chathuranga-j/cyjet-issues/issues/new?labels=feature-request).
+We're considering a **VS Code extension** in the future. If you're interested, [let us know](https://github.com/s-chathuranga-j/cyjet-docs/issues/new?labels=feature-request).
 
 ---
 
@@ -58,6 +59,6 @@ We're considering a **VS Code extension** in the future. If you're interested, [
 🔗 **Follow Updates:**
 - 🌐 [Official Website](https://cyjet.example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/schathurangaj/)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 🐦 [Twitter/X](https://x.com/SChathurangaJ)
 
 **Star this repo** ⭐ to get notified about new developments!  

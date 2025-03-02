@@ -69,16 +69,16 @@ We're constantly working to improve CyJet. Here are some upcoming features:
 
 ## Support and Community
 
-- [Report Issues](https://github.com/s-chathuranga-j/cyjet-issues/issues/new)
-- [Feature Requests](https://github.com/s-chathuranga-j/cyjet-issues/issues/new?assignees=&labels=feature-request)
-- [FAQ](https://github.com/s-chathuranga-j/cyjet-issues#faqs)
+- [Report Issues](https://github.com/s-chathuranga-j/cyjet-docs/issues/new)
+- [Feature Requests](https://github.com/s-chathuranga-j/cyjet-docs/issues/new?assignees=&labels=feature-request)
+- [FAQ](https://github.com/s-chathuranga-j/cyjet-docs#faqs)
 
 ## Stay Connected
 
 - [Official Website](https://cyjet.example.com)
-- [LinkedIn](https://www.linkedin.com/in/schathurangaj/)
+- [LinkedIn](https://x.com/SChathurangaJ)
 - [Twitter/X](https://twitter.com/your-handle)
 
 ---
 
-*For the latest updates and announcements, star our [GitHub repository](https://github.com/s-chathuranga-j/cyjet-issues)!*
+*For the latest updates and announcements, star our [GitHub repository](https://github.com/s-chathuranga-j/cyjet-docs)!*
