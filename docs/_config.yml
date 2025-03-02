@@ -1,0 +1,30 @@
+# Site settings
+title: CyJet Documentation
+description: Official documentation for CyJet - JetBrains Plugin for Cypress automation
+baseurl: ""
+url: ""
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs
+color_scheme: light
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "CyJet on GitHub":
+    - "https://github.com/s-chathuranga-j/cyjet-issues"
+
+# Footer content
+footer_content: "Copyright &copy; 2024 CyJet. Distributed under the MIT license."
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Sort order for navigation
+nav_sort: case_sensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
