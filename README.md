@@ -1,5 +1,5 @@
-# CyJet - Issue Tracker
-**Welcome to the official issue tracker for [CyJet](https://github.com/s-chathuranga-j/CyJet)** – a powerful **JetBrains Plugin** for Cypress automation!
+# CyJet Docs - Documentation & Issue Tracker for the CyJet Plugin
+**Welcome to the official documentation & issue tracker for [CyJet](https://github.com/s-chathuranga-j/CyJet)** – a powerful **JetBrains Plugin** for Cypress automation!
 
 🛠️ **Report bugs, request features, and track the development of CyJet here.**
 
