@@ -1,5 +1,5 @@
 # CyJet Docs - Documentation & Issue Tracker for the CyJet Plugin
-**Welcome to the official documentation & issue tracker for [CyJet](https://s-chathuranga-j.github.io/cyjet-docs/)** – a powerful **JetBrains Plugin** for Cypress automation!
+**Welcome to the official documentation & issue tracker for [CyJet](https://plugins.jetbrains.com/plugin/26711-cyjet)** – a powerful **JetBrains Plugin** for Cypress automation!
 
 🛠️ **Report bugs, request features, and track the development of CyJet here.**
 
@@ -45,13 +45,13 @@
 
 ## FAQs
 ### 1. **Where can I download CyJet?**
-Currently, CyJet is in private development. Stay tuned for release updates!
+You can download the plugin from the JetBrains Marketplace for free [here](https://plugins.jetbrains.com/plugin/26711-cyjet)!
 
 ### 2. **How do I contribute?**
 Since the main repo is private, external contributions aren't possible. However, your feedback via **issues and feature requests** is invaluable!
 
 ### 3. **Will there be a VS Code version?**
-We're considering a **VS Code extension** in the future. If you're interested, [let us know](https://github.com/s-chathuranga-j/cyjet-docs/issues/new?labels=feature-request).
+Yes, I have developed a **Visual Studio Code extension** which you can download from [here](https://marketplace.visualstudio.com/items?itemName=ChathurangaJayasinghe.CyJet).
 
 ---
 
