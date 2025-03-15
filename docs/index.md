@@ -64,7 +64,6 @@ We're constantly working to improve CyJet. Here are some upcoming features:
 
 - Support for running tests in headed mode
 - Cypress cloud integration
-- VS Code extension (future consideration)
 - Enhanced error handling and debugging tools
 - Reach the official Cypress documentation directly from the IDE
 
@@ -79,6 +78,7 @@ We're constantly working to improve CyJet. Here are some upcoming features:
 - [Official Website](https://s-chathuranga-j.github.io/cyjet-docs/)
 - [LinkedIn](https://x.com/SChathurangaJ)
 - [Twitter/X](https://twitter.com/your-handle)
+- [VS Code Extension: ](https://marketplace.visualstudio.com/items?itemName=ChathurangaJayasinghe.CyJet)
 
 ---
 
