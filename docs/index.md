@@ -16,6 +16,7 @@ Welcome to the official documentation for CyJet – a powerful JetBrains Plugin 
 - [Detailed Usage Guide](detailed-usage.md)
 - [Support and Community](#support-and-community)
 - [Stay Connected](#stay-connected)
+- [EULA](EULA.md)
 
 ## Overview
 
